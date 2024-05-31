@@ -1,12 +1,12 @@
 **Business Analysis Report of Vrinda Store for the Financial Year 2022**
 This project focuses on the business analysis of Vrinda Store, aiming to enhance sales in the coming years. The report addresses key questions such as:
 
-Final Sales and Orders: What were the total sales and number of orders for the year?
-Top-Selling Category: Which category had the highest sales?
-Customer Demographics: Who purchased more, men or women?
-Top-Contributing State: Which state contributed the most to annual sales?
-Order Status: What were the different order statuses?
-Age Group Analysis: Which age group was more likely to make purchases?
+1.Final Sales and Orders: What were the total sales and number of orders for the year?
+2.Top-Selling Category: Which category had the highest sales?
+3.Customer Demographics: Who purchased more, men or women?
+4.Top-Contributing State: Which state contributed the most to annual sales?
+5.Order Status: What were the different order statuses?
+6.Age Group Analysis: Which age group was more likely to make purchases?
 
 **Methodology**
 The project employed several key elements:
